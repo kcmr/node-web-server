@@ -9,5 +9,8 @@
   },
   "scripts": {
     "start": "node server"
+  },
+  "engines": {
+    "node": "7.10.x"
   }
 }
